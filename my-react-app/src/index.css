@@ -1,0 +1,97 @@
+.count-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 2em; /* kích thước phông chữ lớn hơn */
+}
+
+.count-display {
+  color: green; /* Màu chữ xanh */
+}
+
+.counter-button {
+  margin: 5px; /* Khoảng cách giữa các nút */
+  padding: 10px 20px; /* Điều chỉnh kích thước của nút */
+  font-size: 1em; /* Kích thước phông chữ của nút */
+  border: none;
+  background-color: lightgreen; /* Màu nền của nút */
+  cursor: pointer;
+}
+
+.counter-button:hover {
+  background-color: limegreen; /* Màu nền của nút khi di chuột qua */
+}
+.to-do-list {
+  font-family: Arial, sans-serif;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.to-do-list h1 {
+  text-align: center;
+}
+
+.to-do-list input[type="text"] {
+  width: 70%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.to-do-list button {
+  padding: 8px 15px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.Add-text {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+.delete-button,
+.move-up-button,
+.move-down-button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+}
+
+.delete-button:hover,
+.move-up-button:hover,
+.move-down-button:hover {
+  background-color: #d32f2f;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.text {
+  margin-right: 10px;
+}
+
+.digital-clock {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 2em;
+}
+
+.digital-clock h1 {
+  margin-bottom: 10px;
+}
+
+.digital-clock div {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+}
