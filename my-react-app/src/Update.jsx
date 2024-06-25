@@ -15,12 +15,32 @@ function Update() {
     return (
         <div>
             <p>your bla bla is: {car.name} {car.year} {car.model}</p>
+            <p>your bla bla is: {car.name} {car.year} {car.model}</p>
             <input type="text" value={car.name} onChange={handleChangename}/><br/>
             <input type="number" value={car.year} onChange={handleChangeyear}/><br/>
             <input type="text" value={car.model} onChange={handleChangemodel}/><br/>
-
+            <p>your bla bla is: {car.name} {car.year} {car.model}</p>
+            <input type="text" value={car.name} onChange={handleChangename}/><br/>
+            <input type="number" value={car.year} onChange={handleChangeyear}/><br/>
+            <input type="text" value={car.model} onChange={handleChangemodel}/><br/>   <p>your bla bla is: {car.name} {car.year} {car.model}</p>
+            <input type="text" value={car.name} onChange={handleChangename}/><br/>
+            <input type="number" value={car.year} onChange={handleChangeyear}/><br/>
+            <input type="text" value={car.model} onChange={handleChangemodel}/><br/>   <p>your bla bla is: {car.name} {car.year} {car.model}</p>
+            <input type="text" value={car.name} onChange={handleChangename}/><br/>
+            <input type="number" value={car.year} onChange={handleChangeyear}/><br/>
+            <input type="text" value={car.model} onChange={handleChangemodel}/><br/>   <p>your bla bla is: {car.name} {car.year} {car.model}</p>
+            <input type="text" value={car.name} onChange={handleChangename}/><br/>
+            <input type="number" value={car.year} onChange={handleChangeyear}/><br/>
+            <input type="text" value={car.model} onChange={handleChangemodel}/><br/>   <p>your bla bla is: {car.name} {car.year} {car.model}</p>
+            <input type="text" value={car.name} onChange={handleChangename}/><br/>
+            <input type="number" value={car.year} onChange={handleChangeyear}/><br/>
+            <input type="text" value={car.model} onChange={handleChangemodel}/><br/>   <p>your bla bla is: {car.name} {car.year} {car.model}</p>
+            <input type="text" value={car.name} onChange={handleChangename}/><br/>
+            <input type="number" value={car.year} onChange={handleChangeyear}/><br/>
+            <input type="text" value={car.model} onChange={handleChangemodel}/><br/>
         </div>
     );
 }
 
 export default Update;
+
