@@ -9,8 +9,48 @@ function Button(){
     }
       
     return (
-        <button onClick={toggleButtonText}>Click me</button>
-    );
+        <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>, <button onClick={toggleButtonText}>Click me</button>,
+        <button onClick={toggleButtonText}>Click me</button>,
+
 }
 
 export default Button;
